@@ -1,9 +1,9 @@
 [gd_scene load_steps=37 format=3 uid="uid://c3tf31w2kdtx1"]
 
-[ext_resource type="Texture2D" uid="uid://cfoauo1epe7y1" path="res://Assets/bat_move.png" id="1"]
+[ext_resource type="Texture2D" uid="uid://bcm1mtjcpcddr" path="res://Assets/bat_move.png" id="1"]
 [ext_resource type="Script" path="res://Enemies/Bat.gd" id="1_3g1lq"]
-[ext_resource type="Texture2D" uid="uid://5pgo5c6cp7ms" path="res://Assets/bat_attack.png" id="3"]
-[ext_resource type="Texture2D" uid="uid://dpxex0k22ni6a" path="res://Assets/bat_die.png" id="4"]
+[ext_resource type="Texture2D" uid="uid://do3iwkv1wgxrr" path="res://Assets/bat_attack.png" id="3"]
+[ext_resource type="Texture2D" uid="uid://oytaavomhk6b" path="res://Assets/bat_die.png" id="4"]
 
 [sub_resource type="AtlasTexture" id="64"]
 atlas = ExtResource("3")

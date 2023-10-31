@@ -1,9 +1,9 @@
 [gd_scene load_steps=63 format=3 uid="uid://cye7bc32e7aer"]
 
-[ext_resource type="Texture2D" uid="uid://bp5teildn14jq" path="res://Assets/golem_attack.png" id="2_es60a"]
-[ext_resource type="Texture2D" uid="uid://srygo30t32po" path="res://Assets/golem_die.png" id="3_kcrsi"]
+[ext_resource type="Texture2D" uid="uid://cxp1rlrc6otqo" path="res://Assets/golem_attack.png" id="2_es60a"]
+[ext_resource type="Texture2D" uid="uid://ox6m3uyxtb5o" path="res://Assets/golem_die.png" id="3_kcrsi"]
 [ext_resource type="Script" path="res://StateMachine/StateMachine.gd" id="4"]
-[ext_resource type="Texture2D" uid="uid://cyvq7bbd4s72a" path="res://Assets/golem_move.png" id="4_7hmrg"]
+[ext_resource type="Texture2D" uid="uid://m4fxlrgbe5tf" path="res://Assets/golem_move.png" id="4_7hmrg"]
 [ext_resource type="Script" path="res://Enemies/Golem.gd" id="5"]
 [ext_resource type="Script" path="res://Enemies/Golem_Die.gd" id="6"]
 [ext_resource type="Script" path="res://Enemies/Golem_Move.gd" id="7"]
